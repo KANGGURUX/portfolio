@@ -40,7 +40,7 @@
 
         const texts = [
             "cherche un stage en web programming",
-            "rêve de devenir Backend développeur web ou web mobile"," suis en train d'apprendre le language Php,",
+            "rêve de devenir Backend développeur web ou web mobile"," suis en train d'apprendre le languages Php,",
             
         ]
         
